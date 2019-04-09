@@ -24,7 +24,7 @@ $font-display: 'Josefin Sans', sans-serif;
 
 html {
     box-sizing: border-box;
-    font-size: 62.5%;
+    
 }
 
 body {
@@ -32,6 +32,7 @@ body {
     color: $color-grey-dark-2;
     font-weight: 300;
     line-height: 1.6;
+    font-size: 62.5%;
 }
 
 .container {
