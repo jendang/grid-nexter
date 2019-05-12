@@ -25,3 +25,4 @@ All the pictures, colors and design by Jonas - teacher.
 
 Deploy link : https://luxury-realestate-nexter.netlify.com/
 
+For more information about this project, please feel free to [contact me](https://www.linkedin.com/in/jennydang/)
